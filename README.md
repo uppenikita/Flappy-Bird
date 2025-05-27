@@ -1,7 +1,9 @@
 Flappy Bird Clone (Unity 2D)
+
 A simple and fun 2D Flappy Bird-style game made using the Unity game engine. The player controls a bird that must fly through randomly spawning pipes without touching them. The game includes a scoring system, sound effects, and a Game Over screen with Restart and Quit options.
 
 Game Features
+
 Bird Character: Tap to flap and keep the bird in the air.
 
 Pipe Obstacles: Pipes spawn at random heights to increase difficulty.
@@ -38,7 +40,7 @@ Unity Hub installed (recommended version 2022.3.39f1)
 Visual Studio or any C# code editor
 
 Installation:
-1. Clone the repository:
+1. Clone the repository: https://github.com/uppenikita/Flappy-Bird.git
 2. Open the project in Unity Hub.
 3. Load the main scene: Assets/Scenes/MainScene.unity
 4. Click Play in the Unity Editor to start the game.
